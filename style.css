@@ -1,0 +1,33 @@
+/* Apply to the whole page */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styles */
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Main content */
+main {
+    padding: 20px;
+}
+
+/* Style the button */
+button {
+    padding: 10px 20px;
+    border: none;
+    background-color: #0077ff;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0055aa;
+}
