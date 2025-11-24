@@ -1,63 +1,6 @@
-{
-  "cells": [
-    {
-      "cell_type": "markdown",
-      "id": "1a6ebf86-e107-451c-83a5-c24954e170e4",
-      "metadata": {
-        "id": "1a6ebf86-e107-451c-83a5-c24954e170e4"
-      },
+
       "source": [
-        "<i>Modified from the file written by Ahsan Khan on behalf of Alberta Machine Intelligence Institute for the Al Pathways Partnership supported by Prairies Economic Development Canada</i>"
-      ]
-    },
-    {
-      "cell_type": "markdown",
-      "source": [
-        "---\n",
-        "\n",
-        "**Important Note:**\n",
-        "\n",
-        "Please do not alter any part of this notebook outside the designated text cells that are clearly marked with \"*Start student input* ↓\" and \"*End student input ↑*\". Changes made outside these specified areas could lead to incorrect evaluations of your work, potentially affecting your lab scores.\n",
-        "\n",
-        "Ensure you complete all activities within these sections, which are indicated by labels like **[A1]**, **[A2]**, **[A3]**, ... Each activity is crucial for the successful completion of this lab. Additionally, please name your variables exactly as specified in the instructions (if specified) to ensure that your answers are correctly assessed.\n",
-        "\n",
-        "Make sure to fill your name in the box below. Also modify the file name so reflect your name inside the parentheses. For example, if this file is named `Lab x - Topic (Student).ipynb` rename it to `Lab x - Topic (First Last).ipynb` where `First` is your first name and `Last` is your last name.\n",
-        "\n",
-        "---\n"
-      ],
-      "metadata": {
-        "id": "p7-lW4FOb2NL"
-      },
-      "id": "p7-lW4FOb2NL"
-    },
-    {
-      "cell_type": "markdown",
-      "source": [
-        "**Student name**: First Last"
-      ],
-      "metadata": {
-        "id": "HjcrJ1yDcXwf"
-      },
-      "id": "HjcrJ1yDcXwf"
-    },
-    {
-      "cell_type": "markdown",
-      "id": "b3a6f436-7259-49e6-a3b8-f9e81e78e433",
-      "metadata": {
-        "id": "b3a6f436-7259-49e6-a3b8-f9e81e78e433"
-      },
-      "source": [
-        "# Lab 4: Linear Regression"
-      ]
-    },
-    {
-      "cell_type": "markdown",
-      "id": "28d073c1-bd3a-428d-aa8a-2651b4724572",
-      "metadata": {
-        "id": "28d073c1-bd3a-428d-aa8a-2651b4724572"
-      },
-      "source": [
-        "In this lab we will be working with linear regression models."
+        "Linear regression models."
       ]
     },
     {
