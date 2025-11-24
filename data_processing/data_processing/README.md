@@ -15,7 +15,6 @@ This project builds a regression model using the California Housing Dataset.
 - Evaluating performance using RMSE and R²
 - Visualizing predicted vs. actual housing prices
 
-This notebook demonstrates a real-world regression workflow suitable for portfolio use.
 
 ## pyspark_cluster_setup_and_analysis.ipynb
 This notebook demonstrates a complete PySpark workflow, starting from 
