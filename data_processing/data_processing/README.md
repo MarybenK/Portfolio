@@ -21,7 +21,7 @@ This notebook demonstrates a complete PySpark workflow, starting from
 environment setup and Spark cluster initialization to performing distributed 
 data transformations.
 
-📘 sql_database_analysis.ipynb
+## sql_database_analysis.ipynb
 This notebook demonstrates a complete SQL-based data analysis workflow.
 
 ### Key tasks:
