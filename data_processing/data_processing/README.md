@@ -17,9 +17,17 @@ This project builds a regression model using the California Housing Dataset.
 
 
 ## pyspark_cluster_setup_and_analysis.ipynb
-This notebook demonstrates a complete PySpark workflow, starting from 
-environment setup and Spark cluster initialization to performing distributed 
-data transformations.
+This notebook demonstrates:
+
+- Installing and configuring PySpark
+- Initializing a Spark cluster
+- Verifying cluster execution
+- Creating and manipulating Spark DataFrames
+- Running transformations and actions
+- Performing distributed data analysis workflows
+
+This notebook illustrates a real-world cluster-based processing environment suitable for analytics and data engineering tasks.
+
 
 ## sql_database_analysis.ipynb
 This notebook demonstrates a complete SQL-based data analysis workflow.
