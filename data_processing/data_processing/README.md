@@ -21,6 +21,19 @@ This notebook demonstrates a complete PySpark workflow, starting from
 environment setup and Spark cluster initialization to performing distributed 
 data transformations.
 
+📘 sql_database_analysis.ipynb
+This notebook demonstrates a complete SQL-based data analysis workflow.
+
+### Key tasks:
+- Connecting to a relational database
+- Exploring database tables and schema
+- Running SQL queries (SELECT, JOIN, GROUP BY, WHERE)
+- Performing aggregations and filtering
+- Extracting insights from structured data
+- Preparing cleaned datasets for further analysis
+
+This notebook represents a typical real-world data engineering or database analytics task.
+
 ### Key topics covered:
 - Installing and configuring PySpark
 - Creating and verifying a Spark session
