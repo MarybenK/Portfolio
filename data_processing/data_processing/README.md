@@ -6,7 +6,7 @@ and model evaluation.
 ## housing_price_regression.ipynb
 This project builds a regression model using the California Housing Dataset.
 
-### Key Steps Covered
+### ▶ Key Steps Covered
 - Loading and inspecting raw data
 - Data cleaning and preprocessing
 - Feature/target selection
@@ -44,7 +44,7 @@ This notebook demonstrates a full PySpark workflow, including:
 ## sql_database_analysis.ipynb
 This notebook demonstrates a complete SQL-based data analysis workflow.
 
-### Key tasks:
+### ▶ Key tasks:
 - Connecting to a relational database
 - Exploring database tables and schema
 - Running SQL queries (SELECT, JOIN, GROUP BY, WHERE)
@@ -54,7 +54,7 @@ This notebook demonstrates a complete SQL-based data analysis workflow.
 
 This notebook represents a typical real-world data engineering or database analytics task.
 
-### Key topics covered:
+### ▶ Key topics covered:
 - Installing and configuring PySpark
 - Creating and verifying a Spark session
 - Inspecting Spark configuration and cluster details
