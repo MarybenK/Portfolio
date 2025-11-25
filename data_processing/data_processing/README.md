@@ -15,18 +15,30 @@ This project builds a regression model using the California Housing Dataset.
 - Evaluating performance using RMSE and R²
 - Visualizing predicted vs. actual housing prices
 
-
 ## pyspark_cluster_setup_and_analysis.ipynb
-This notebook demonstrates:
+This notebook demonstrates a full PySpark workflow, including:
 
-- Installing and configuring PySpark
+### ▶ Environment Setup
+- Installing PySpark
+- Configuring dependencies
 - Initializing a Spark cluster
-- Verifying cluster execution
-- Creating and manipulating Spark DataFrames
-- Running transformations and actions
-- Performing distributed data analysis workflows
 
-This notebook illustrates a real-world cluster-based processing environment suitable for analytics and data engineering tasks.
+### ▶ Cluster Verification
+- Checking session creation
+- Confirming cluster runtime
+- Viewing Spark configuration
+
+### ▶ Data Processing
+- Creating Spark DataFrames
+- Running transformations
+- Applying filters, selects, and aggregations
+- Inspecting schema and execution plans
+
+### ▶ Practical Skills Demonstrated
+- Distributed computation fundamentals
+- Real-world Spark workflow structure
+- Scalable data engineering operations
+
 
 
 ## sql_database_analysis.ipynb
